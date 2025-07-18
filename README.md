@@ -91,12 +91,3 @@ Thanks to **Prodigy InfoTech** for the opportunity to work on this project and k
 > Made with ❤️ using Flutter
 
 ```
-
----
-
-Let me know if you want:
-- The markdown exported to a `.md` file
-- Custom badge icons (build passing, Flutter version, etc.)
-- Screenshot image placeholders or graphic assets
-- GitHub topics/tags recommendations
-```
