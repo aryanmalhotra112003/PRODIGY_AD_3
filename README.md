@@ -1,4 +1,4 @@
-```markdown
+
 # Stopwatch App ⏱️
 
 A simple and precise stopwatch app built using **Flutter & Dart**, featuring real-time time tracking (minutes, seconds, milliseconds), smooth UI transitions, and essential control buttons — start, stop, and reset. This project was developed as part of my internship at **Prodigy InfoTech**.
